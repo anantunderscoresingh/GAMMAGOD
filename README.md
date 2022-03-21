@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GAMMAGOD
-- 👀 I’m interested in ... Java Programming, DSA & Cloud Computing
+- 👀 I’m interested in ... Cloud Infrastructure and Web Development
 - 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ... web prjoects
 - 📫 How to reach me ... anantprakash3987@gmail.com
