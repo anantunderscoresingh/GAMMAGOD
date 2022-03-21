@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GAMMAGOD
 - 👀 I’m interested in ... Java Programming, DSA & Cloud Computing
-- 🌱 I’m currently learning ... DSA through Java
-- 💞️ I’m looking to collaborate on ... anything really
+- 🌱 I’m currently learning ... Web Development
+- 💞️ I’m looking to collaborate on ... web prjoects
 - 📫 How to reach me ... anantprakash3987@gmail.com
 
 <!---
